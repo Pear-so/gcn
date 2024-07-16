@@ -1,4 +1,4 @@
-# Graph Convolutional Networks  Semi-Supervised Classification with Graph Convolutional Networks
+# Semi-Supervised Classification with Graph Convolutional Networks
 
 This is a TensorFlow implementation of Graph Convolutional Networks for the task of (semi-supervised) classification of nodes in a graph, as described in our paper:
  
